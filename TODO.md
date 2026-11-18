@@ -1,0 +1,8 @@
+- Refer to https://app.codecrafters.io/courses/redis/overview
+- Test-drive a TCP server that returns a hardcoded string ("HELLO") to every client that connects to it, before closing the connection.
+  - Figure out the test infra to talk to a TCP server on localhost:6379
+  - Figure out how to listen for a response, and check that it's "HELLO" in UTF-8/ASCII
+- Implement PING:
+  - https://redis.io/docs/latest/develop/reference/protocol-spec/
+- ECHO
+- GET and SET
